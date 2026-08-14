@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Voice Assistants</string>
+
+    <string name="accessibility_description">
+        Allows Voice Assistants to perform phone navigation actions such as Home, Back, Recent Apps and scrolling.
+    </string>
+
+</resources>
